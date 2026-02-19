@@ -9,6 +9,7 @@ my leetcode problems
 | [0001-two-sum](https://github.com/priyanshu1645/Leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/priyanshu1645/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/priyanshu1645/Leetcode/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/priyanshu1645/Leetcode/tree/master/0283-move-zeroes) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/priyanshu1645/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Hash Table
 |  |
@@ -19,6 +20,7 @@ my leetcode problems
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/priyanshu1645/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/priyanshu1645/Leetcode/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/priyanshu1645/Leetcode/tree/master/0283-move-zeroes) |
 ## Math
 |  |
 | ------- |
