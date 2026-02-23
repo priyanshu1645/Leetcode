@@ -53,6 +53,7 @@ my leetcode problems
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/priyanshu1645/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0006-zigzag-conversion](https://github.com/priyanshu1645/Leetcode/tree/master/0006-zigzag-conversion) |
 ## Dynamic Programming
 |  |
 | ------- |
