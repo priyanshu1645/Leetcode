@@ -15,6 +15,7 @@ my leetcode problems
 | [0136-single-number](https://github.com/priyanshu1645/Leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/priyanshu1645/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/priyanshu1645/Leetcode/tree/master/0189-rotate-array) |
+| [0229-majority-element-ii](https://github.com/priyanshu1645/Leetcode/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/priyanshu1645/Leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/priyanshu1645/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0845-longest-mountain-in-array](https://github.com/priyanshu1645/Leetcode/tree/master/0845-longest-mountain-in-array) |
@@ -25,6 +26,7 @@ my leetcode problems
 | ------- |
 | [0001-two-sum](https://github.com/priyanshu1645/Leetcode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/priyanshu1645/Leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/priyanshu1645/Leetcode/tree/master/0229-majority-element-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -49,6 +51,7 @@ my leetcode problems
 | ------- |
 | [0075-sort-colors](https://github.com/priyanshu1645/Leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/priyanshu1645/Leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/priyanshu1645/Leetcode/tree/master/0229-majority-element-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -58,6 +61,7 @@ my leetcode problems
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/priyanshu1645/Leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/priyanshu1645/Leetcode/tree/master/0229-majority-element-ii) |
 ## String
 |  |
 | ------- |
