@@ -10,6 +10,7 @@ my leetcode problems
 | [0026-remove-duplicates-from-sorted-array](https://github.com/priyanshu1645/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/priyanshu1645/Leetcode/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/priyanshu1645/Leetcode/tree/master/0053-maximum-subarray) |
+| [0073-set-matrix-zeroes](https://github.com/priyanshu1645/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/priyanshu1645/Leetcode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/priyanshu1645/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/priyanshu1645/Leetcode/tree/master/0136-single-number) |
@@ -25,6 +26,7 @@ my leetcode problems
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/priyanshu1645/Leetcode/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/priyanshu1645/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/priyanshu1645/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/priyanshu1645/Leetcode/tree/master/0229-majority-element-ii) |
 ## Two Pointers
@@ -82,4 +84,8 @@ my leetcode problems
 |  |
 | ------- |
 | [0845-longest-mountain-in-array](https://github.com/priyanshu1645/Leetcode/tree/master/0845-longest-mountain-in-array) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/priyanshu1645/Leetcode/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
