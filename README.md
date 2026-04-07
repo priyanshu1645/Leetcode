@@ -27,6 +27,7 @@ my leetcode problems
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/priyanshu1645/Leetcode/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/priyanshu1645/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/priyanshu1645/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/priyanshu1645/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/priyanshu1645/Leetcode/tree/master/0229-majority-element-ii) |
@@ -69,6 +70,7 @@ my leetcode problems
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/priyanshu1645/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/priyanshu1645/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/priyanshu1645/Leetcode/tree/master/0006-zigzag-conversion) |
 ## Dynamic Programming
@@ -91,4 +93,8 @@ my leetcode problems
 | ------- |
 | [0048-rotate-image](https://github.com/priyanshu1645/Leetcode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/priyanshu1645/Leetcode/tree/master/0073-set-matrix-zeroes) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/priyanshu1645/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
