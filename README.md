@@ -31,6 +31,7 @@ my leetcode problems
 | [0073-set-matrix-zeroes](https://github.com/priyanshu1645/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/priyanshu1645/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/priyanshu1645/Leetcode/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/priyanshu1645/Leetcode/tree/master/0242-valid-anagram) |
 ## Two Pointers
 |  |
 | ------- |
@@ -57,6 +58,7 @@ my leetcode problems
 | [0075-sort-colors](https://github.com/priyanshu1645/Leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/priyanshu1645/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/priyanshu1645/Leetcode/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/priyanshu1645/Leetcode/tree/master/0242-valid-anagram) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -73,6 +75,7 @@ my leetcode problems
 | [0003-longest-substring-without-repeating-characters](https://github.com/priyanshu1645/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/priyanshu1645/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/priyanshu1645/Leetcode/tree/master/0006-zigzag-conversion) |
+| [0242-valid-anagram](https://github.com/priyanshu1645/Leetcode/tree/master/0242-valid-anagram) |
 ## Dynamic Programming
 |  |
 | ------- |
