@@ -31,6 +31,7 @@ my leetcode problems
 | [0003-longest-substring-without-repeating-characters](https://github.com/priyanshu1645/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/priyanshu1645/Leetcode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/priyanshu1645/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0076-minimum-window-substring](https://github.com/priyanshu1645/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0169-majority-element](https://github.com/priyanshu1645/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/priyanshu1645/Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/priyanshu1645/Leetcode/tree/master/0242-valid-anagram) |
@@ -80,6 +81,7 @@ my leetcode problems
 | [0005-longest-palindromic-substring](https://github.com/priyanshu1645/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/priyanshu1645/Leetcode/tree/master/0006-zigzag-conversion) |
 | [0049-group-anagrams](https://github.com/priyanshu1645/Leetcode/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/priyanshu1645/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0242-valid-anagram](https://github.com/priyanshu1645/Leetcode/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/priyanshu1645/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 ## Dynamic Programming
@@ -106,5 +108,6 @@ my leetcode problems
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/priyanshu1645/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/priyanshu1645/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/priyanshu1645/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 <!---LeetCode Topics End-->
