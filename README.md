@@ -46,6 +46,7 @@ my leetcode problems
 | [0075-sort-colors](https://github.com/priyanshu1645/Leetcode/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/priyanshu1645/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/priyanshu1645/Leetcode/tree/master/0283-move-zeroes) |
+| [0443-string-compression](https://github.com/priyanshu1645/Leetcode/tree/master/0443-string-compression) |
 | [0845-longest-mountain-in-array](https://github.com/priyanshu1645/Leetcode/tree/master/0845-longest-mountain-in-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/priyanshu1645/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Math
@@ -87,6 +88,7 @@ my leetcode problems
 | [0242-valid-anagram](https://github.com/priyanshu1645/Leetcode/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/priyanshu1645/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/priyanshu1645/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0443-string-compression](https://github.com/priyanshu1645/Leetcode/tree/master/0443-string-compression) |
 ## Dynamic Programming
 |  |
 | ------- |
