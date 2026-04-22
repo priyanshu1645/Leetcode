@@ -89,12 +89,14 @@ my leetcode problems
 | [0424-longest-repeating-character-replacement](https://github.com/priyanshu1645/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/priyanshu1645/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/priyanshu1645/Leetcode/tree/master/0443-string-compression) |
+| [0678-valid-parenthesis-string](https://github.com/priyanshu1645/Leetcode/tree/master/0678-valid-parenthesis-string) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/priyanshu1645/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/priyanshu1645/Leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/priyanshu1645/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0678-valid-parenthesis-string](https://github.com/priyanshu1645/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0845-longest-mountain-in-array](https://github.com/priyanshu1645/Leetcode/tree/master/0845-longest-mountain-in-array) |
 ## Simulation
 |  |
@@ -116,4 +118,12 @@ my leetcode problems
 | [0076-minimum-window-substring](https://github.com/priyanshu1645/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/priyanshu1645/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/priyanshu1645/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
+## Stack
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/priyanshu1645/Leetcode/tree/master/0678-valid-parenthesis-string) |
+## Greedy
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/priyanshu1645/Leetcode/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
